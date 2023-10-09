@@ -1,5 +1,5 @@
 package com.actitime.testscript;
 
-public class Taskmodule {
+public class ProjectModule {
 
 }
